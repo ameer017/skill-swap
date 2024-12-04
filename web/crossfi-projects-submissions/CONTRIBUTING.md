@@ -12,7 +12,7 @@ Thank you for your interest in contributing to CrossFi! Follow these steps to su
 git checkout -b add-my-project
 ```
 
-4. Add your project details in the projects/ folder using the [template]()
+4. Add your project details in the projects/ folder using the [template](https://github.com/CrossFi-Africa-Ecosystem/crossfi-projects-submissions/blob/main/web/crossfi-projects-submissions/projects/example_project.md)
 5. Commit and push your changes:
 ```
 bash

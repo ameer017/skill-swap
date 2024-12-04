@@ -1,6 +1,6 @@
 # CrossFi Project Submissions
 
-Welcome to the CrossFi Project Submissions repository! 🎉 
+Welcome to the CrossFi Project Submissions repository! 🎉
 
 This repository serves as a hub for builders to showcase their CrossFi-based projects and share details with the community.
 
